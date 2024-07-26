@@ -1,2 +1,2 @@
 # Covid-19_ML
-Covid-19 Analysis Using Machine Learning
+Covid-19 Case Analysis Using Machine Learning
